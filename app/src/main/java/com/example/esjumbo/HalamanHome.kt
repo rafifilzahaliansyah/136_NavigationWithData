@@ -44,12 +44,12 @@ fun HalamanHome(
                 modifier = Modifier.align(Alignment.CenterHorizontally)
             ){
                 Image(painter = image, contentDescription = null, contentScale = ContentScale.Crop)
-                Text(text = "es Teh",
+                Text(text = "Teh Poci",
                     color = Color.DarkGray,
                     fontFamily = FontFamily.Cursive,
                     fontSize = 35.sp,
                     modifier = Modifier.align(Alignment.CenterHorizontally))
-                Text(text = "Gembrunggung",
+                Text(text = "Mas Rafi",
                     color = Color.DarkGray,
                     fontFamily = FontFamily.Cursive,
                     fontSize = 60.sp,
